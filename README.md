@@ -12,9 +12,10 @@
 - Что такое PHP?
 - С чего начать?
 - Базовые понятия
-    - [Значение](./base/value.md)
-    - [Выражение](./base/expression.md)
-    - [Переменная](./base/variable.md)
+    - [Значения](./base/01-values.md)
+    - [Типы](./base/02-types.md)
+    - [Выражения](./base/03-expressions.md)
+    - [Переменные](./base/04-variables.md)
 - Основы синтаксиса
     - [Ветвление](./syntax/if.md)
     - [Цикл "пока"](./syntax/while.md)

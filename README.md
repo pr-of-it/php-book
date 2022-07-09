@@ -14,3 +14,6 @@
     - [Значение](./base/value.md)
     - [Выражение](./base/expression.md)
     - [Переменная](./base/variable.md)
+- Основы синтаксиса
+    - [Ветвление](./syntax/if.md)
+    - [Цикл "пока"](./syntax/while.md)

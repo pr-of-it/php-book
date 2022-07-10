@@ -17,6 +17,6 @@
     - [Выражения](./base/03-expressions.md)
     - [Переменные](./base/04-variables.md)
 - Основы синтаксиса
-    - [Ветвление](./syntax/if.md)
+    - [Ветвление](./syntax/01-if.md)
     - [Цикл "пока"](./syntax/while.md)
     - [Функции](./syntax/functions.md)
